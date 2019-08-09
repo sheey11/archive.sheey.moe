@@ -9,6 +9,8 @@ tags: blog
 `hexo g -d` 实际上是用 `git push --force` 在推送，而因为是新电脑，没有 clone 一遍就直接 push，导致 HEAD 对不上，所以服务器这边 pull 自然会出错。
 仔细研究了下 `caddy-git` 之后，发现他其实可以在 pull 之后执行命令，那么直接把 build 需要的文件放 github, 让服务器来构建岂不是一举两得。
 
+<!-- more -->
+
 ---
 
 在 `caddy-git` 的 [repo](https://github.com/abiosoft/caddy-git) 上可以看到 `caddy-git` 的语法是这样的：  
