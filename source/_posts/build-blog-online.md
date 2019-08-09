@@ -28,7 +28,7 @@ git [repo path] {
 	then        command [args...]
 	then_long   command [args...]
 }
-> ```
+```
 其中  
 > - **path** is the path to clone the repository into; default is site root. It can be absolute or relative (to site root).
 > - **command** is a command to execute after successful pull; followed by **args** which are any arguments to pass to the command. You can have multiple lines of this for multiple commands. **then_long** is for long executing commands that should run in background.
@@ -58,7 +58,7 @@ hexo g
 ```
 ---
 接着可以开始准备 repo 啦。由于 `npm_modules` 文件夹的特殊性，我就选择只在 github 上存放 `source` 以及 `_config.yml` 几个文件。把他们复制过去后再 `hexo g`。  
-之后更新项目啦，在 `blog-source` 下：
+将放到 github 上去！在 `blog-source` 下：
 ```shell
 git init
 git remote add origin https://github.com/Sheey11/sheey.moe.git
