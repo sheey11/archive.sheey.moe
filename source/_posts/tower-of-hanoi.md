@@ -40,7 +40,8 @@ move(3, A, C, B)
 move(n - 1, auxiliary, target, source)
 ```
 其中把 `auxiliary` 写到了参数 `source` 的位置，`target` 写到了参数 `auxiliary` 的位置，`source` 写在 `target` 的位置。这样就只需要把上面的 `spare` 看成 `target`，`target` 作为辅助盘就完美解决了。  
-其实图上的步骤与给出的代码不一样，我对照图写出来的代码是这样的：
+
+最终我的代码：
 ```python
 def move(n, source, auxiliary, target):
     if n <= 0:
