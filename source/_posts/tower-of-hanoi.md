@@ -4,7 +4,7 @@ date: 2019-10-09 23:15:07
 update: 2019-10-09 23:15:07
 tags:
 ---
-偶然翻到沙雕 Python 有上有个关于汉诺塔的问题，说是递归的经典案例，于是顿时来了兴趣。但是看了半天并没有发现什么规律可循，翻了翻国内的文章，少之又少的同时又讲不懂，无奈走 [Wikipedia](https://www.wikiwand.com/en/Tower_of_Hanoi#/Recursive_soluti字说明、step by step 的图和 py 代码，算是看懂了(吧)。
+偶然翻到沙雕 Python 有上有个关于汉诺塔的问题，说是递归的经典案例，于是顿时来了兴趣。但是看了半天并没有发现什么规律可循，翻了翻国内的文章，少之又少的同时又讲不懂，无奈走 [Wikipedia](https://www.wikiwand.com/en/Tower_of_Hanoi#/Recursive_soluti)，结合文字说明、step by step 的图和 py 代码，算是看懂了(吧)。
 ![图来自 Wikipedia](https://sheey-blog-resources.oss-cn-hangzhou.aliyuncs.com/images/Tower_of_Hanoi_recursion.png)
 其实文字和图已经讲得比较详细了，但是我还是有没懂的地方。解题步骤是不断将 `source` 里的移到 `target` 里，但图里有一步是将 `source` 的一部分移到 `spare` 里，这就不是通解了呀（我认为还要将这一步独立出来写），我就一直没搞懂。  
 但是翻下面代码，一下子就恍然大悟。Python 代码如下：  
