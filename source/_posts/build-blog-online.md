@@ -17,20 +17,20 @@ tags: blog
 
 在 `caddy-git` 的 [repo](https://github.com/abiosoft/caddy-git) 上可以看到 `caddy-git` 的语法是这样的：  
 > ```
-> git [repo path] {
->     repo        repo
->     path        path
->     branch      branch
->     key         key
->     interval    interval
->     clone_args  args
->     pull_args   args
->     hook        path secret
->     hook_type   type
->     then        command [args...]
->     then_long   command [args...]
-> }
-> ```
+git [repo path] {
+    repo        repo
+    path        path
+    branch      branch
+    key         key
+    interval    interval
+    clone_args  args
+    pull_args   args
+    hook        path secret
+    hook_type   type
+    then        command [args...]
+    then_long   command [args...]
+}
+```
 其中  
 > - **path** is the path to clone the repository into; default is site root. It can be absolute or relative (to site root).
 > - **command** is a command to execute after successful pull; followed by **args** which are any arguments to pass to the command. You can have multiple lines of this for multiple commands. **then_long** is for long executing commands that should run in background.
