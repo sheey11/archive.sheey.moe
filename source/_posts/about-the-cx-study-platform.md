@@ -39,6 +39,7 @@ https://fystat-ans.chaoxing.com/log/setlog?personid=12345678&courseId=12345678&c
 这个 `url` 带有未知的 `persionid` 和 `encode` 信息，只能通过爬取课程小节访问。
 
 ## 获取课程
+也可以通过这种方式来单独获取小节内容，用刚才保存的 `chapterid`，就不用繁琐地单独访问课程小节。  
 `url` :
 ```
 https://mooc1-2.chaoxing.com/mycourse/studentstudyAjax 
@@ -51,7 +52,7 @@ https://mooc1-2.chaoxing.com/mycourse/studentstudyAjax
 `clazzid`|`clazzid`|
 `chapterId`|`chapterId`|
 `cpi`|`97924359` 或 `0`|第一次前者，之后后者
-`verificationcode` |`''`|一般是空字符串
+`verificationcode` ||一般是空字符串
 
 ## 信息获取
 课程小节页面和用 POST 方式获取的页面都带有 `cards` 的请求，例如
