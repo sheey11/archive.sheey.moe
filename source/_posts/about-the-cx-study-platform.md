@@ -7,6 +7,7 @@ update: 2020-02-06 18:47:11
 # 前言
 随着疫情的蔓延，各大学校都开始了网课 ~~（虽然四川教育厅不让开网课）~~ 这次的课程是学习冠状病毒相关的知识，我大概看了下看完了。准备写个自动完成的小东西，这里就把爬到的东西写成文档吧。
 
+<!--more-->
 # 登陆
 待完成。
 
@@ -44,7 +45,7 @@ https://fystat-ans.chaoxing.com/log/setlog?personid=12345678&courseId=12345678&c
 ```
 https://mooc1-2.chaoxing.com/mycourse/studentstudyAjax 
 ```
-向改 `url` POST 发送数据，即可得到课程小节的 `html` 代码。
+向该 `url` POST 发送数据，即可得到课程小节的 `html` 代码。
 
 数据名称|对应的数据|备注
 -|-|-
