@@ -9,7 +9,45 @@ update: 2020-02-06 18:47:11
 
 <!--more-->
 # 登陆
-待完成。
+## 获取必要 `cookie`
+首先 GET 该 `url`, 并保存返回的 `cookie`:
+```
+http://www.fanya.chaoxing.com/passport/setcookie?fid=FID
+```
+其中的 `FID` 为学校或单位的 `ID`。
+## 获取验证码
+然后获取验证码，同样需要保存 `cookie`:
+```
+http://passport2.chaoxing.com/num/code?TIMESTAP
+```
+`url` 中的 `TIMESTAP` 为当前时间戳。
+## 提交登陆信息
+向 `url` POST 发送数据:
+```
+http://passport2.chaoxing.com/login?refer=http%3A%2F%2Fi.mooc.chaoxing.com
+```
+数据名称|值|备注
+-|-|-
+`refer_0x001`|`http://i.mooc.chaoxing.com`|w
+`pid`|`-1`|
+`pidName`||空字符串
+`fid`||学校或单位代码
+`fidName`||学校或单位名称
+`allowJoin`|`0`|
+`isCheckNumCode`|`1`|
+`f`|`0`|
+`productid`||空字符串
+`t`|`true`|
+`uname`||学号或用户名
+`password`||`base64` 加密后的密码
+`numcode`||验证码
+`verCode`||空字符串
+
+得到HTTP状态码为 304 即为登陆成功。
+
+> **注意**  
+> 1. 提交数据过程中禁止重定向。因为登陆成功后会将你重定向到另一个页面，导致 HTTP 状态码可能不为 304。
+> 2. 使用正确的 HTTP 头。
 
 # 获取课程列表
 查询 `url` :
@@ -28,7 +66,10 @@ http://mooc1-2.chaoxing.com/visit/courses
 |`courseid`|课程唯一标识|
 |`clazzid`|暂不明确|
 |`enc`|暂不明确|  
-在这个页面获取所有课程小节的 `chapterid` ，备用
+在这个页面获取所有课程小节的 `chapterid` ，备用。
+
+> **注意**  
+> 需要 HTTP 头包含正确的 `User-Agent`。
 
 # 自动完成课程小节
 
