@@ -23,7 +23,7 @@ network:
       dhcp4: yes
       dhcp6: no
       addresses: ["YOUR_IPv6_ADDERSS/64"]
-      gateway: GATEWAY
+      gateway6: GATEWAY
 ```
 保存好，然后再
 ```sh
