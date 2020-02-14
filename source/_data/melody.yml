@@ -251,8 +251,7 @@ valine:
 # ---------------
 since: 2017
 
-footer_custom_text: <p>近朱者赤, 近墨者黑。</p><a href="https://aliyun.com"><img src="https://img.alicdn.com/tfs/TB1Ly5oS3HqK1RjSZFPXXcwapXa-238-54.png" style="height:27px"></a>
-
+footer_custom_text: <div>近朱者赤, 近墨者黑。</div><a href="https://aliyun.com"><img src="https://img.alicdn.com/tfs/TB1Ly5oS3HqK1RjSZFPXXcwapXa-238-54.png" style="margin-top:7px; height:18px;"></a>
 ICP:
   enable: false
   #text: 
