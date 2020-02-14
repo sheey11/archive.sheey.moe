@@ -277,8 +277,8 @@ busuanzi:
 
 # Sidebar Settings
 # ---------------
-links_title: 友情链接
-links:
+# links_title: 友情链接
+# links:
   # Kiyoshi的郵便局: https://blog.k1yoshi.com/
 
 # Follow Me Button
