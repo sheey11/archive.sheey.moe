@@ -7,6 +7,8 @@ update: 2020-02-18 12:00:00
 # 前言
 之前在 GitHub 上看到了 Soha 的红包，后来又找到了好多大佬发的红包，我也来凑个热闹。虽然春节早过了，但是现在宅在家里闲着也是闲着，不如发个红包。
 
+<!--moer-->
+
 # 规则
 **目前解析已公布，欢迎提出意见和建议**  
 
@@ -77,8 +79,8 @@ locatiom: https://hb.sheey.moe/WHtPJRko294ndUvh.json
 }
 ```
 
-注意到 `data` 是一串二进制数据，而 `format` 提示这串数据是 `square` 正形，而这段数据的长度刚好是 `31 ^ 2 = 961`，所以这串数据应该是按每 `31` 个字符为一行，形成 `31 x 31` 的方形。  
-联想到*规则*里说道需要处理图片，不难想到这个数据是一个图片，每个字符代表一个像素，我们把它画出来，得到一个二维码：  
+注意到 `data` 是一串二进制数据，而 `format` 提示这串数据是 `square` 方形，而这段数据的长度刚好是 `31 ^ 2 = 961`，所以这串数据应该是按每 `31` 个字符为一行，形成 `31 x 31` 的方形。  
+联想到*规则*里说到需要编辑图片，不难想到这个数据是一个图片，每个字符代表一个像素，我们把它画出来，得到一个二维码：  
 ![二维码](https://sheey-blog-resources.oss-cn-hangzhou.aliyuncs.com/images/lvl-2-qrcode.png)
 
 扫出来得到的就是下一关的网址。  
@@ -121,7 +123,7 @@ https://hb.sheey.moe/TqPU.html
 
 ![2020 就是我们要找的端口](https://sheey-blog-resources.oss-cn-hangzhou.aliyuncs.com/images/lvl-4-telnet-2.png)
 
-看样子成功了，我们输入 `telnet.txt` 中密码：
+看样子成功了，我们输入 `telnet.txt` 中的密码：
 ```
  > Please enter the password: 6I341,'/VX7!4=D02
  > Sorry, wrong password.
