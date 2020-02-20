@@ -3,24 +3,41 @@ title: 关于
 type: "page"
 ---
 
-这里是Sheey。
+这里是Sheey，国内某不知名大学大一学生。
 
 正在学：~~C#~~、C++、Python、~~CINEMA 4D & Octane Render~~、<ruby>日本語<rt>にほんご</ruby>。  
 准备学：Maya、Adobe 全家桶、吉他 / 小提琴。
 喜欢读散文。想读刘慈欣的所有小说、还有一些名著。
 这个 blog 啥都更！Coding、3D 渲染相关、笔记、生活、也许还会写点读后感和散文。
 
-变得谦虚！
+**变得谦虚！**
 
-~~在玩:~~
-- ~~塞尔达传说系列 (才入坑的萌新)~~
-    - ~~旷野之息~~
-    - ~~梦见岛(预购)~~
-- ~~彩虹六号: 围攻 | ID: `Hermione-11`~~
-- ~~守望先锋 | ID: `墨小菊#5328` (退坑又入坑)~~
-- ~~奇异人生全系列~~
+---
 
-(戒游戏了)
+其他小工具:  
+- [1Password](https://1password.com/) - 已购入高级版
+- [滴答清单](https://dida365.com/) - 已购入高级版
+- [Raindrop](https://raindrop.io/)
+- [Anki](https://apps.ankiweb.net/)
+
+还有一个 [TeamSpeak](https://www.teamspeak.com/) 服务器, 目前跑在阿里云，到期了打算换到[滴滴云](https://www.didiyun.com/)去。
+
+---
+
+设备:
+- Mi 9
+- MacBook Air - 2019 款
+- Kindle Paperwhite 3
+- Switch
+- PC
+  - CPU： AMD Ryzen 3700X
+  - 显卡： NVIDIA RTX 2070
+  - 内存： Kingston HyperX 8G DDR4 * 2
+  - 机械： Seagate 2T
+  - 固态： Intel 760P 512G
+  - 耳机： Kingston HyperX Cloud Alpha（不推荐）
+  - 键盘： Akko 3108 樱花粉
+  - 鼠标： Logitech G502
 
 欢迎交朋友呀~
 
