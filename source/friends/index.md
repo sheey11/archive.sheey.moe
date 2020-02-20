@@ -10,3 +10,4 @@ date: 2020-02-14 23:38:53
 [Makito's Notebook](https://keep.moe/) <- 想过这样的生活！  
 [风痕's Blog](https://blog.moew.xyz/) <- 换 ID 了  
 [兔之屋](https://syaro.hotococoa.moe/wordpress/) <- ~~(老二次元了)~~ 老 C++ 了  
+[Codgi 的小屋](https://codgi.xin) <- 未来的大佬
