@@ -5,8 +5,8 @@ date: 2020-02-14 23:38:53
 
 这里是 Sheey 的朋友们！交换友链可以在下面留言。
 
-[Codgi 的小屋](https://codgi.xin) <- 未来的大佬  
 [TonyHe](https://www.ouorz.com/) <- 是前端大佬(☆ω☆)  
+[Codgi 的小屋](https://codgi.xin) <- 未来的大佬  
 [Kiyoshi 的郵便局](https://blog.k1yoshi.com/) <- 留学大佬，`GPA` 还巨高  
 [MARKSZ の Blog](https://molunerfinn.com/) <- 主题作者  
 [Makito's Notebook](https://keep.moe/) <- 想过这样的生活！  
