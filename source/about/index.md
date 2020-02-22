@@ -20,7 +20,7 @@ type: "page"
 - [Raindrop](https://raindrop.io/)
 - [Anki](https://apps.ankiweb.net/)
 
-还有一个 [TeamSpeak](https://www.teamspeak.com/) 服务器, 目前跑在阿里云，到期了打算换到[滴滴云](https://www.didiyun.com/)去。
+还有一个 [TeamSpeak](https://www.teamspeak.com/) 服务器, 目前跑在阿里云，到期了打算换到 ~~[滴滴云](https://www.didiyun.com/)~~ [腾讯云](https://cloud.tencent.com/act/season)去。
 
 ---
 
