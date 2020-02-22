@@ -3,7 +3,9 @@ title: 关于
 type: "page"
 ---
 
-这里是Sheey，国内某不知名大学大一学生。
+这里是 Sheey，国内某不知名大学大一学生。  
+是个男孩子！是个男孩子！是个男孩子！  
+而且👴🏻还就想用粉色。
 
 正在学：~~C#~~、C++、Python、~~CINEMA 4D & Octane Render~~、<ruby>日本語<rt>にほんご</ruby>。  
 准备学：Maya、Adobe 全家桶、吉他 / 小提琴。
