@@ -7,8 +7,9 @@ type: "page"
 是个男孩子！是个男孩子！是个男孩子！  
 而且👴🏻还就想用粉色。
 
-正在学：~~C#~~、C++、Python、~~CINEMA 4D & Octane Render~~、<ruby>日本語<rt>にほんご</ruby>。  
-准备学：Maya、Adobe 全家桶、吉他 / 小提琴。
+正在学：Deep Learning、~~C#~~、C/C++、Python、~~CINEMA 4D & Octane Render~~、<ruby>日本語<rt>にほんご</ruby>。  
+~~准备学：Maya、Adobe 全家桶、吉他 / 小提琴。~~   
+
 喜欢读散文。想读刘慈欣的所有小说、还有一些名著。
 这个 blog 啥都更！Coding、3D 渲染相关、笔记、生活、也许还会写点读后感和散文。
 
@@ -31,15 +32,19 @@ type: "page"
 - MacBook Air - 2019 款
 - Kindle Paperwhite 3
 - Switch
-- PC
-  - CPU： AMD Ryzen 3700X
-  - 显卡： NVIDIA RTX 2070
-  - 内存： Kingston HyperX 8G DDR4 * 2
-  - 机械： Seagate 2T
-  - 固态： Intel 760P 512G
-  - 耳机： Kingston HyperX Cloud Alpha（不推荐）
-  - 键盘： Akko 3108 樱花粉
-  - 鼠标： Logitech G502
+- PC(臭打游戏的)
+  - AMD Ryzen 3700X
+  - NVIDIA RTX 2070
+  - Kingston HyperX 8G DDR4 * 2
+  - Intel 760P 512G SSD & Seagate 2T HDD
+  - Kingston HyperX Cloud Alpha（不推荐）
+  - Akko 3108 樱花粉
+  - Logitech G502
+
+游戏:  
+- Rainbow Six: Seige
+- Overwatch (没事玩玩)
+- PUBG
 
 欢迎交朋友呀~
 
