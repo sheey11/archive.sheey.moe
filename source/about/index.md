@@ -5,19 +5,25 @@ type: "page"
 
 这里是 Sheey，国内某不知名大学大一学生。  
 是个男孩子！是个男孩子！是个男孩子！  
-而且👴🏻还就想用粉色。
+而且 👴🏻还就想用粉色。
 
-正在学：Deep Learning、~~C#~~、C/C++、Python、~~CINEMA 4D & Octane Render~~、<ruby>日本語<rt>にほんご</ruby>。  
-~~准备学：Maya、Adobe 全家桶、吉他 / 小提琴。~~   
+---
+- 在学的有：Deep Learning with TensorFlow、C/C++、Python、English、日本語。  
+- **变得谦虚！**
+- 重度 nt（歪比歪比？歪比巴卜！）
+- 抽 🐘带师
+- 说　话　带　空　格
+- 女票超！可！爱！
 
-喜欢读散文。想读刘慈欣的所有小说、还有一些名著。
-这个 blog 啥都更！Coding、3D 渲染相关、笔记、生活、也许还会写点读后感和散文。
-
-**变得谦虚！**
+这个 blog 可能包含以下元素：
+- Coding
+- 3D 建模啥的(主要是 CINEMA 4D)
+- 生活
+- 其他琐碎的事情
 
 ---
 
-其他小工具:  
+推荐的小工具:  
 - [1Password](https://1password.com/) - 已购入高级版
 - [滴答清单](https://dida365.com/) - 已购入高级版
 - [Raindrop](https://raindrop.io/)
