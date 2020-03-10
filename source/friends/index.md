@@ -5,7 +5,8 @@ date: 2020-02-14 23:38:53
 
 这里是 Sheey 的朋友们！交换友链可以在下面留言。
 
-[寻街技术博客](http://www.xjjsbk.com/) <- 又一个互联网爱好者！
+[皮皮凛の小窝](https://qwq.best/) <- 永远相信美好的事情即将发生~  
+[Eltrac’s Word](https://www.eltrac.cn/) <- Waiting for someone, or waiting for a story.  
 [TonyHe](https://www.ouorz.com/) <- 是前端大佬(☆ω☆)  
 [Codgi 的小屋](https://codgi.xin) <- 未来的大佬  
 [Kiyoshi 的郵便局](https://blog.k1yoshi.com/) <- 留学大佬，`GPA` 还巨高  
