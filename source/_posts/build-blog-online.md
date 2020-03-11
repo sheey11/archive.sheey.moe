@@ -48,20 +48,20 @@ git {
     pull_args --force
     branch master
     interval 300
-    then sh var/www/sheey.moe/build.sh
+    then sh /var/www/sheey.moe/build.sh
 }
 ```
 其中 `build.sh` 的作用是将 `source` 文件夹删除，随后从 `tmp` 下复制过去。
 ```shell
 cd /var/www/sheey.moe
 rm -r source
-cp -f -r tmp/* .
+cp -rf tmp/* .
 hexo g
 ```
 
 # Get Ready
 
-接着可以开始准备 repo 啦。由于 `npm_modules` 文件夹的特殊性，我就选择只在 github 上存放 `source` 以及 `_config.yml` 几个文件。把他们复制过去后再 `hexo g`。  
+接着可以开始准备 repo 啦。由于 `node_modules` 文件夹的特殊性，我就选择只在 github 上存放 `source` 以及 `_config.yml` 两个文件(夹)。把他们复制过去后再 `hexo g`。  
 将需要 build 的文件放到 github 上去！在 `blog-source` 下：
 ```shell
 git init
