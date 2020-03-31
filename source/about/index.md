@@ -47,10 +47,12 @@ type: "page"
   - Akko 3108 樱花粉
   - Logitech G502
 
-游戏:  
+游戏(PC):  
 - Rainbow Six: Seige
 - Overwatch (没事玩玩)
-- PUBG
+- Cyberpunk 2077 ~~(已预购)~~(已经在二周目了)
+- Horizon ~~Lunar Colony~~ Zero Dawn (预计)
+- Death Stranding(预计)
 
 欢迎交朋友呀~
 
