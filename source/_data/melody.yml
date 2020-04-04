@@ -241,6 +241,7 @@ valine:
   appKey: Wf9I2OTKcDPk7EU7Q2BnxFA3 # leancloud application app key
   notify: false # valine mail notify (true/false) https://github.com/xCss/Valine/wiki
   verify: true # valine verify code (true/false)
+  recordip: true
   pageSize: 5 # comment list page size
   avatar: mp # gravatar style https://valine.js.org/#/avatar
   lang: zh-cn # i18n: zh-cn/en
