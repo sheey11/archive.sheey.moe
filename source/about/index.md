@@ -51,8 +51,11 @@ type: "page"
 - Rainbow Six: Seige
 - Overwatch (没事玩玩)
 - Cyberpunk 2077 ~~(已预购)~~(已经在二周目了)
-- Horizon ~~Lunar Colony~~ Zero Dawn (预计)
-- Death Stranding(预计)
+
+总有一天会买的：
+- Horizon Zero Dawn
+- Death Stranding
+- STAR WARS Jedi: Fallen Order
 
 欢迎交朋友呀~
 
