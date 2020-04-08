@@ -143,9 +143,9 @@ cdn:
 
 # Post info settings
 # ---------------
-avatar: https://sheey-blog-resources.oss-cn-hangzhou.aliyuncs.com/images/avatar.png # https://i.loli.net/2019/04/13/5cb2067c5d091.png
+avatar: https://sheey-blog-resources.oss-cn-hangzhou.aliyuncs.com/images/avatar.webp # https://i.loli.net/2019/04/13/5cb2067c5d091.png
 
-top_img: https://sheey-blog-resources.oss-cn-hangzhou.aliyuncs.com/images/background.png # https://i.loli.net/2019/03/30/5c9f63201b751.png #/images/bg.jpg # false or url of img
+top_img: https://sheey-blog-resources.oss-cn-hangzhou.aliyuncs.com/images/background.webp # https://i.loli.net/2019/03/30/5c9f63201b751.png #/images/bg.jpg # false or url of img
 
 post_meta:
   date_type: created # created or updated
