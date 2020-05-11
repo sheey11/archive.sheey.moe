@@ -25,10 +25,11 @@ type: "page"
 推荐的小工具:  
 - [1Password](https://1password.com/) - 已购入高级版
 - [滴答清单](https://dida365.com/) - 已购入高级版
-- [Raindrop](https://raindrop.io/)
-- [Anki](https://apps.ankiweb.net/)
+- ~~[Raindrop](https://raindrop.io/)~~
+- ~~[Anki](https://apps.ankiweb.net/)~~
+- Notability
 
-还有一个 [TeamSpeak](https://www.teamspeak.com/) 服务器, 目前跑在阿里云，到期了打算换到 ~~[滴滴云](https://www.didiyun.com/)~~ [腾讯云](https://cloud.tencent.com/act/season)去。
+还有一个 [TeamSpeak](https://www.teamspeak.com/) 服务器, ~~目前跑在阿里云，到期了打算换到 [滴滴云](https://www.didiyun.com/) [腾讯云](https://cloud.tencent.com/act/season)去~~（已经换了）。
 
 ---
 
@@ -52,6 +53,9 @@ type: "page"
 - Cyberpunk 2077 ~~(已预购)~~(已经在二周目了)
 
 总有一天会买的：
+
+- iPad 2019 & Apple Pencil
+
 - Horizon Zero Dawn
 - Death Stranding
 - STAR WARS Jedi: Fallen Order
