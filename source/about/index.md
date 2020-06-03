@@ -10,9 +10,8 @@ type: "page"
 ---
 - 在学的有：Deep Learning with TensorFlow、C/C++、Python、English、日本語。  
 - **变得谦虚！**
-- 重度 nt（歪比歪比？歪比巴卜！）
-- 抽 🐘带师
-- 说　话　带　空　格
+- 柯南粉
+- 漫威粉
 
 这个 blog 可能包含以下元素：
 - Coding
@@ -24,7 +23,7 @@ type: "page"
 
 推荐的小工具:  
 - [1Password](https://1password.com/) - 已购入高级版
-- [滴答清单](https://dida365.com/) - 已购入高级版
+- [滴答清单](https://dida365.com/) - ~~已购入高级版~~
 - ~~[Raindrop](https://raindrop.io/)~~
 - ~~[Anki](https://apps.ankiweb.net/)~~
 - Notability
@@ -36,6 +35,7 @@ type: "page"
 设备:
 - Mi 9
 - MacBook Air - 2019 款
+- iPad Air 3 & Apple Pencil
 - Kindle Paperwhite 3
 - Switch
 - PC(臭打游戏的)
@@ -49,13 +49,12 @@ type: "page"
 
 游戏(PC):  
 - Rainbow Six: Seige
-- Overwatch (没事玩玩)
+- ~~Overwatch (没事玩玩)~~
 - Cyberpunk 2077 ~~(已预购)~~(已经在二周目了)
 
 总有一天会买的：
 
-- iPad 2019 & Apple Pencil
-
+- ~~iPad 2019 & Apple Pencil~~
 - Horizon Zero Dawn
 - Death Stranding
 - STAR WARS Jedi: Fallen Order
