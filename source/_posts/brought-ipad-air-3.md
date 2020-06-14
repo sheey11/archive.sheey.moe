@@ -5,6 +5,9 @@ update: 2020-06-13 21:34:11
 ---
 
 在京东分期入了一块 iPad Air 3 和一支 Apple Pencil，粗略说说使用感受。
+
+<!--more-->
+
 # iPad
 
 ## 开箱
