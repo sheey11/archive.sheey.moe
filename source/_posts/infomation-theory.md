@@ -5,6 +5,10 @@ update: 2020-07-08 18:27:08
 tags: [笔记, ML]
 ---
 
+Notes about infomation theory basics.
+
+<!--more-->
+
 # Entropy
 In information theory, an entropy of a **distribution** $p$, is captured by the following equation:
 
