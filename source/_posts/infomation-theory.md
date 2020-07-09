@@ -14,7 +14,7 @@ In information theory, an entropy of a **distribution** $p$, is captured by the 
 
 $$ H[p] = \sum_j -p(j) \log p(j) $$
 
-Or for single distribution:
+Or for single probalility:
 
 $$ H[y] = - y \log y $$
 
