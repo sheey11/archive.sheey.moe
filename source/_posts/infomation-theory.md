@@ -27,7 +27,7 @@ In order to encode data drawn randomly from the distribution $p$, we need at lea
 
 - Nut
   Nut is the equivalent of bit but when using a code with base $e$ rather than one with base $2$.  
-  $$ 1 \text{Nut} = \frac{1}{\log(2)} \approx 1.44 \text{bit}$$
+  $$ 1 \, \text{nut} = \frac{1}{\log(2)} \approx 1.44 \, \text{bit}$$
 - $\frac{H[p]}{2}$ is often also called the *binary entropy*.
 
 # Cross-Entropy
