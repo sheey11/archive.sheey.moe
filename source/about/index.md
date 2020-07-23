@@ -8,7 +8,7 @@ type: "page"
 而且 👴🏻还就想用粉色。
 
 ---
-- 在学的有：Deep Learning with TensorFlow、C/C++、Python、English、日本語。  
+- 在学的有：Deep Learning with MXNet/PyTorch/TensorFlow、English、日本語。  
 - **变得谦虚！**
 - 柯南粉
 - 漫威粉
@@ -24,11 +24,9 @@ type: "page"
 推荐的小工具:  
 - [1Password](https://1password.com/) - 已购入高级版
 - [滴答清单](https://dida365.com/) - ~~已购入高级版~~
-- ~~[Raindrop](https://raindrop.io/)~~
-- ~~[Anki](https://apps.ankiweb.net/)~~
 - Notability
 
-还有一个 [TeamSpeak](https://www.teamspeak.com/) 服务器, ~~目前跑在阿里云，到期了打算换到 [滴滴云](https://www.didiyun.com/) [腾讯云](https://cloud.tencent.com/act/season)去~~（已经换了）。
+还有一个 [TeamSpeak](https://www.teamspeak.com/) 服务器, 目前跑在腾讯云去。
 
 ---
 
