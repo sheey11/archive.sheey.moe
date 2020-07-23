@@ -46,6 +46,7 @@ type: "page"
   - Logitech G502
 
 游戏(PC):  
+- 荒野乱斗
 - Rainbow Six: Seige
 - ~~Overwatch (没事玩玩)~~
 - Cyberpunk 2077 ~~(已预购)~~(已经在二周目了)
