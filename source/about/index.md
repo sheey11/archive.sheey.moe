@@ -26,7 +26,7 @@ type: "page"
 - [滴答清单](https://dida365.com/) - ~~已购入高级版~~
 - Notability
 
-还有一个 [TeamSpeak](https://www.teamspeak.com/) 服务器, 目前跑在腾讯云去。
+还有一个 [TeamSpeak](https://www.teamspeak.com/) 服务器, 目前跑在腾讯云。
 
 ---
 
