@@ -8,20 +8,14 @@ type: "page"
 而且 👴🏻还就想用粉色。
 
 ---
+
 - 在学的有：Deep Learning with MXNet/PyTorch/TensorFlow、English、日本語。  
 - **变得谦虚！**
-- 柯南粉
-- 漫威粉
-
-这个 blog 可能包含以下元素：
-- Coding
-- 3D 建模啥的(主要是 CINEMA 4D)
-- 生活
-- 其他琐碎的事情
 
 ---
 
 推荐的小工具:  
+
 - [1Password](https://1password.com/) - 已购入高级版
 - [滴答清单](https://dida365.com/) - ~~已购入高级版~~
 - Notability
@@ -31,6 +25,7 @@ type: "page"
 ---
 
 设备:
+
 - Mi 9
 - MacBook Air - 2019 款
 - iPad Air 3 & Apple Pencil
@@ -45,7 +40,8 @@ type: "page"
   - Akko 3108 樱花粉
   - Logitech G502
 
-游戏(PC):  
+游戏:  
+
 - 荒野乱斗
 - Rainbow Six: Seige
 - ~~Overwatch (没事玩玩)~~
@@ -60,23 +56,28 @@ type: "page"
 
 欢迎交朋友呀~
 
-# 关于本站
-> 我在田野里流浪，  
-> 寻找着自己的归属。  
-> 夜空里繁星点点，  
-> 我选择了一片荒芜。  
->  
-> 我在 [GoDaddy](https://godaddy.com) 买下地产，  
-> 我请 [Aliyun](https://www.aliyun.com/product/ecs) 设计蓝图。  
-> 我请 [Caddy](https://caddyserver.com) 打下地基，  
-> 我用 [Hexo](https://hexo.io/) 搭起小屋。  
->  
-> 小屋的安全有 [Let's Encrypt](https://letsencrypt.org/) 保障，  
-> 小屋的邮件由 [163](https://ym.163.com/) 送去远方。  
-> 小屋的花圃由 [Melody](https://github.com/Molunerfinn/hexo-theme-melody) 悉心照料，  
-> 客人的言语由 [Valine](https://valine.js.org) 认真摘抄。
-> 
-> 小屋算不上漂亮，但它将很温暖。  
-> 小屋算不上华丽，但它将很温馨。  
-> 在田野中，茕茕孑立，形影相吊。  
-> 但它终将花开满地，光芒万丈。
+## 关于本站
+
+<div style="text-align: center;">
+
+我在田野里流浪，  
+寻找着自己的归属。  
+夜空里繁星点点，  
+我选择了一片荒芜。  
+ 
+我在 [GoDaddy](https://godaddy.com) 买下地产，  
+我请 [Aliyun](https://www.aliyun.com/product/ecs) 设计蓝图。  
+我请 [Caddy](https://caddyserver.com) 打下地基，  
+我用 [Hexo](https://hexo.io/) 搭起小屋。  
+ 
+小屋的安全有 [Let's Encrypt](https://letsencrypt.org/) 保障，  
+小屋的邮件由 [163](https://ym.163.com/) 送去远方。  
+小屋的花圃由 [Melody](https://github.com/Molunerfinn/hexo-theme-melody) 悉心照料，  
+客人的言语由 [Valine](https://valine.js.org) 认真摘抄。
+
+小屋算不上漂亮，但它将很温暖。  
+小屋算不上华丽，但它将很温馨。  
+在田野中，茕茕孑立，形影相吊。  
+但它终将花开满地，光芒万丈。
+
+</div>
