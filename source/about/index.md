@@ -11,6 +11,7 @@ type: "page"
 
 - 在学的有：Deep Learning with MXNet/PyTorch/TensorFlow、English、日本語。  
 - **变得谦虚！**
+- [ENFJ-A](https://www.16personalities.com/ch/enfj-%E4%BA%BA%E6%A0%BC)
 
 ---
 
