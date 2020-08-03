@@ -52,7 +52,7 @@ type: "page"
 - ~~iPad 2019 & Apple Pencil~~
 - Horizon Zero Dawn
 - Death Stranding
-- STAR WARS Jedi: Fallen Order
+- ~~STAR WARS Jedi: Fallen Order~~
 
 欢迎交朋友呀~
 
