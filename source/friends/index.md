@@ -6,7 +6,7 @@ date: 2020-02-14 23:38:53
 这里是 Sheey 的朋友们！交换友链可以在下面留言。
 
 [觉](http://xdminsy.github.io/) <- 可爱的觉酱！  
-[皮皮凛の小窝](https://qwq.best/) <- 永远相信美好的事情即将发生~  
+[皮皮凛の小窝](https://owomoe.net/) <- 永远相信美好的事情即将发生~  
 [Eltrac’s Word](https://www.eltrac.cn/) <- Waiting for someone, or waiting for a story.  
 [TonyHe](https://www.ouorz.com/) <- 是前端大佬(☆ω☆)  
 [Codgi 的小屋](https://codgi.xin) <- 未来的大佬  
