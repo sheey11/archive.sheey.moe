@@ -4,6 +4,10 @@ date: 2020-10-05 10:34:11
 update: 2020-10-05 10:34:11
 ---
 
+瞎搞。
+
+<!--more-->
+
 ## 安装
 
 去[yuk7/ArchWSL2](http://github.com/yuk7/ArchWSL2)上下载最新的 Release，直接打开 `Arch2.exe` 安装。
