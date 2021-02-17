@@ -18,7 +18,7 @@ type: "page"
 推荐的小工具:  
 
 - [1Password](https://1password.com/) - 已购入高级版
-- [滴答清单](https://dida365.com/) - ~~已购入高级版~~
+- ~~[滴答清单](https://dida365.com/) - 已购入高级版~~
 - Notability
 
 还有一个 [TeamSpeak](https://www.teamspeak.com/) 服务器, 目前跑在腾讯云。
@@ -36,23 +36,23 @@ type: "page"
   - AMD Ryzen 3700X
   - NVIDIA RTX 2070
   - Kingston HyperX 8G DDR4 * 2
-  - Intel 760P 512G SSD & Seagate 2T HDD
+  - WD Blue 512G SATA SSD & Intel 760P 512G SSD & Seagate 2T HDD
   - Kingston HyperX Cloud Alpha（不推荐）
   - Akko 3108 樱花粉
   - Logitech G502
 
-游戏:  
+游戏:
 
-- 荒野乱斗
-- Rainbow Six: Seige
-- ~~Overwatch (没事玩玩)~~
-- Cyberpunk 2077 ~~(已预购)~~(已经在二周目了)
+- ~~荒野乱斗~~
+- ~~Rainbow Six: Seige~~
+- Overwatch
+- ~~Cyberpunk 2077 (已预购)(已经在二周目了)~~
 
 总有一天会买的：
 
 - ~~iPad 2019 & Apple Pencil~~
-- Horizon Zero Dawn
-- Death Stranding
+- ~~Horizon Zero Dawn~~
+- ~~Death Stranding~~
 - ~~STAR WARS Jedi: Fallen Order~~
 
 欢迎交朋友呀~
