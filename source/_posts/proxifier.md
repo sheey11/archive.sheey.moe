@@ -9,6 +9,8 @@ tags: Proxy
 
 于是 [Proxifier](https://www.proxifier.com/) 出现了，刚才对他的印象还是在“给某个程序强制走代理”的工具。最近突然想起它还可以设置网站，这就好办了，给 `github`、`golang.org` 设置上代理，傻逼的 `go` 就会自己走代理。
 
+<!--more-->
+
 ## 使用方法
 
 1. 先在 `Profile` -> `Proxy Servers` 里加上自己的代理服务器：
