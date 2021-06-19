@@ -9,7 +9,7 @@ type: "page"
 
 ---
 
-- 在学的有：Deep Learning with MXNet/PyTorch/TensorFlow、English、日本語。  
+- 在学的有：Deep Learning with MXNet/PyTorch/TensorFlow、English、Go、~~日本語~~。  
 - **变得谦虚！**
 - [ENFJ-A](https://www.16personalities.com/ch/enfj-%E4%BA%BA%E6%A0%BC)
 
@@ -21,7 +21,13 @@ type: "page"
 - ~~[滴答清单](https://dida365.com/) - 已购入高级版~~
 - Notability
 
-还有一个 [TeamSpeak](https://www.teamspeak.com/) 服务器, 目前跑在腾讯云。
+~~还有一个 [TeamSpeak](https://www.teamspeak.com/) 服务器, 目前跑在腾讯云。~~
+[Discord](https://discord.com/) 永远滴神！
+
+---
+
+公开笔记:
+- [操作系统](https://www.wolai.com/sheey/iywtaPvqQtLpQ5KVUL6ymm)
 
 ---
 
