@@ -51,6 +51,7 @@ type: "page"
 
 - ~~荒野乱斗~~
 - ~~Rainbow Six: Seige~~
+- Apex Legends
 - Overwatch
 - ~~Cyberpunk 2077 (已预购)(已经在二周目了)~~
 
