@@ -3,7 +3,7 @@ title: 关于
 type: "page"
 ---
 
-这里是 Sheey ~~Skywalker~~，国内某不知名大学大二学生。  
+这里是 Sheey ~~Skywalker~~，国内某不知名大学大二学生，目前在 (DaoCloud Inc.)[https://www.daocloud.io/about] 实习。  
 是个男孩子！是个男孩子！是个男孩子！  
 而且 👴🏻还就想用粉色。
 
