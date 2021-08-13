@@ -9,6 +9,12 @@ type: "page"
 
 ---
 
+来听听新闻吧
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=4&id=965346101&auto=0&height=430"></iframe>
+
+---
+
 - 在学的有：Deep Learning with MXNet/PyTorch/TensorFlow、English、Go、~~日本語~~。  
 - **变得谦虚！**
 - [ENFJ-A](https://www.16personalities.com/ch/enfj-%E4%BA%BA%E6%A0%BC)
