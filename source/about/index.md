@@ -60,7 +60,7 @@ type: "page"
 - ~~Rainbow Six: Seige~~
 - Apex Legends
 - Overwatch
-- ~~Cyberpunk 2077 (已预购)(已经在二周目了)~~
+- ~~Cyberpunk 2077（已预购）（已经在二周目了）~~（狗都不玩）
 
 总有一天会买的：
 
