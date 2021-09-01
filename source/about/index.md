@@ -44,6 +44,7 @@ type: "page"
 - iPad Air 3 & Apple Pencil
 - Kindle Paperwhite 3
 - Switch
+- Oculus Quest 2 （在路上啦！）
 - PC(臭打游戏的)
   - AMD Ryzen 3700X
   - NVIDIA RTX 2070
