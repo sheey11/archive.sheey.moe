@@ -236,9 +236,9 @@ disqus:
 
 # valine comment system. https://valine.js.org
 valine:
-  enable: true # if you want use valine, please set this value is ture
-  appId: jzr7JqJOSGztcrweuQb1l9WE-gzGzoHsz # leancloud application app id
-  appKey: Wf9I2OTKcDPk7EU7Q2BnxFA3 # leancloud application app key
+  enable: false # if you want use valine, please set this value is ture
+  appId: # jzr7JqJOSGztcrweuQb1l9WE-gzGzoHsz # leancloud application app id
+  appKey: # Wf9I2OTKcDPk7EU7Q2BnxFA3 # leancloud application app key
   notify: false # valine mail notify (true/false) https://github.com/xCss/Valine/wiki
   verify: true # valine verify code (true/false)
   recordip: true
